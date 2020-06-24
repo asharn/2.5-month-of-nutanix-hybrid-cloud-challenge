@@ -6,17 +6,17 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 ## Day 2: June 24, 2020. #90DaysofUdacity
 - My current progress is:\
-  ** Lesson 1. Introduction to the Nutanix Hybrid Cloud ** (Progress 100%)\
-    - ** Meet Your Instructor: Cees Eijk **
-	- ** Prerequisites **
+  **Lesson 1. Introduction to the Nutanix Hybrid Cloud** (Progress 100%)\
+    - **Meet Your Instructor: Cees Eijk**
+	- **Prerequisites**
 		In order to take this course, you should be comfortable with command line on Linux or Windows. It would also be helpful for you to have a background in working with VMs as well as AWS or GCP cloud.
-	- ** Course Outline **
+	- **Course Outline**
 		In this course, we're going to cover:
-			1. The Journey to the Modern Hybrid Cloud
-            2. Introduce you to the Nutanix HCI
-			3. Hybrid Cloud Security
-			4. Networking
-			5. Managing Virtual Machines in the Hybrid Cloud
+			1. The Journey to the Modern Hybrid Cloud\
+            2. Introduce you to the Nutanix HCI\
+			3. Hybrid Cloud Security\
+			4. Networking\
+			5. Managing Virtual Machines in the Hybrid Cloud\
 			6. Data Protection
 
 ![Day 2 1st](images/day-02-1.png)
