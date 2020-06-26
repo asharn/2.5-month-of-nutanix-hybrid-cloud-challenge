@@ -11,7 +11,7 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 	- **Prerequisites**
 		In order to take this course, you should be comfortable with command line on Linux or Windows. It would also be helpful for you to have a background in working with VMs as well as AWS or GCP cloud.
 	- **Course Outline**
-		In this course, we're going to cover:
+		In this course, we're going to cover:\
 			1. The Journey to the Modern Hybrid Cloud\
             2. Introduce you to the Nutanix HCI\
 			3. Hybrid Cloud Security\
