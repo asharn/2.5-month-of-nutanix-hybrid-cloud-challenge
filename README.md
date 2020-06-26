@@ -1,6 +1,26 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 3: June 25, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 7%)\
+	In this lesson, we’re going to cover:
+	1. What the role of a Hybrid Cloud Engineer is
+    2. The different models to support various Cloud initiatives
+    3. The Engineer’s role in Service Level Agreements related to Cloud apps
+	4. How to choose the optimal Cloud platform for an app, based on business requirements and SLAs
+
+    - **Lesson 2. Journey to the Modern Cloud**
+		- **Why are Hybrid Cloud Engineers needed?**
+		- **What does a Hybrid Cloud Engineer do?**
+			A hybrid cloud engineer can design, create, operate, and manage different types of workloads across multiple clouds and infrastructure providers.
+		- **Digital Transformation**
+			The need for complex and specialized silos for data center infrastructure was removed by public cloud providers through the commoditization of the IT industry. This is called digital transformation (or DX) in the industry and refers to traditional IT practices making the effort necessary to modernize. Naturally, this takes a lot of time and resources. 
+		
+
+![Day 3 1st](images/day-03-1.png)
+![Day 3 2nd](images/day-03-2.png)
+![Day 3 2nd](images/day-03-3.png)
 
 
 
