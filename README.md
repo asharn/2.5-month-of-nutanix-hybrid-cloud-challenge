@@ -1,6 +1,20 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 4: June 26, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 8%)\
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 20%)\
+		- **Understanding the Cloud**
+			The Cloud is an Experience and a Mindset
+			 ![Cloud](images/cloud.png)
+			 Service Models
+			![Service Models](images/service-model.png)
+		- **Application Design: The Monolith**
+			When we refer to monolithic, we mean there is one, single source of every component in the stack. 
+
+		
+
 ## Day 3: June 25, 2020. #90DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 7%)\
