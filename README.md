@@ -10,7 +10,7 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
     3. The Engineer’s role in Service Level Agreements related to Cloud apps
 	4. How to choose the optimal Cloud platform for an app, based on business requirements and SLAs
 
-    - **Lesson 2. Journey to the Modern Cloud**
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 15%)\
 		- **Why are Hybrid Cloud Engineers needed?**
 		- **What does a Hybrid Cloud Engineer do?**
 			A hybrid cloud engineer can design, create, operate, and manage different types of workloads across multiple clouds and infrastructure providers.
