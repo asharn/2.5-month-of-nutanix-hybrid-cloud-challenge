@@ -1,6 +1,20 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+
+
+## Day 5: June 27, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 10%)\
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 25%)\
+		- **Application Design: Distributed Web Scale**
+			3-tier Web Application
+			![3-tier Web Architecture](images/3-tier-arch.png)
+		- **What differentiates the organizations that use it from the organizations that do not? Why is the cloud so important?**
+
+![Day 5 1st](images/day-05-1.png)
+
+
 ## Day 4: June 26, 2020. #90DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 8%)\
