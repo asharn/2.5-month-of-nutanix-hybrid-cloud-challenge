@@ -18,7 +18,7 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
   **2. Modern Private Cloud Infrastructure** (Progress 10%)
     - **Lesson 2. Journey to the Modern Cloud** (Progress 25%)
 		- **Application Design: Distributed Web Scale**
-			3-tier Web Application
+			3-tier Web Application\
 			![3-tier Web Architecture](images/3-tier-arch.png)
 		- **What differentiates the organizations that use it from the organizations that do not? Why is the cloud so important?**
 
@@ -26,29 +26,29 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 
 ## Day 4: June 26, 2020. #90DaysofUdacity
-- My current progress is:\
+- My current progress is:
   **2. Modern Private Cloud Infrastructure** (Progress 8%)
     - **Lesson 2. Journey to the Modern Cloud** (Progress 20%)
 		- **Understanding the Cloud**
-			The Cloud is an Experience and a Mindset
+			- The Cloud is an Experience and a Mindset
 			 ![Cloud](images/cloud.png)
-			 Service Models
+			- Service Models
 			![Service Models](images/service-model.png)
-		- **Application Design: The Monolith**
+		- **Application Design: The Monolith**\
 			When we refer to monolithic, we mean there is one, single source of every component in the stack. 
 
 		
 
 ## Day 3: June 25, 2020. #90DaysofUdacity
 - My current progress is:\
-  **2. Modern Private Cloud Infrastructure** (Progress 7%)
+  **2. Modern Private Cloud Infrastructure** (Progress 7%)\
 	In this lesson, we’re going to cover:
 	1. What the role of a Hybrid Cloud Engineer is
     2. The different models to support various Cloud initiatives
     3. The Engineer’s role in Service Level Agreements related to Cloud apps
 	4. How to choose the optimal Cloud platform for an app, based on business requirements and SLAs
 
-    - **Lesson 2. Journey to the Modern Cloud** (Progress 15%)\
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 15%)
 		- **Why are Hybrid Cloud Engineers needed?**
 		- **What does a Hybrid Cloud Engineer do?**
 			A hybrid cloud engineer can design, create, operate, and manage different types of workloads across multiple clouds and infrastructure providers.
@@ -64,7 +64,7 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 ## Day 2: June 24, 2020. #90DaysofUdacity
 - My current progress is:\
-  **Lesson 1. Introduction to the Nutanix Hybrid Cloud** (Progress 100%)\
+  **Lesson 1. Introduction to the Nutanix Hybrid Cloud** (Progress 100%)
     - **Meet Your Instructor: Cees Eijk**
 	- **Prerequisites**
 		In order to take this course, you should be comfortable with command line on Linux or Windows. It would also be helpful for you to have a background in working with VMs as well as AWS or GCP cloud.
@@ -85,7 +85,7 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 ## Day 1: June 23, 2020. #90DaysofUdacity
 - My current progress is:\
-  **Part 1. Welcome to the Nutanix Hybrid Cloud Foundation Course** (Progress 100%)\
+  **Part 1. Welcome to the Nutanix Hybrid Cloud Foundation Course** (Progress 100%)
     I have gathered idea about this program and joined slack community to learn and collaborate together.
     ### Welcome and Congratulations!
      Udacity and Nutanix are excited to welcome you to the Nutanix Hybrid Cloud Scholarship Phase 1 (Modern Private Cloud Infrastructure). Here are some helpful   details as you start the program.
