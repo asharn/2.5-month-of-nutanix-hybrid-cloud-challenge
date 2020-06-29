@@ -4,8 +4,8 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 ## Day 6: June 28, 2020. #90DaysofUdacity
 - My current progress is:\
-  **2. Modern Private Cloud Infrastructure** (Progress 10%)\
-    - **Lesson 2. Journey to the Modern Cloud** (Progress 25%)\
+  **2. Modern Private Cloud Infrastructure** (Progress 12%)\
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 33%)\
 		- **Cloud Considerations*
 		- **Cloud Considerations: Workload Predictability**
 
