@@ -4,9 +4,9 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 ## Day 6: June 28, 2020. #90DaysofUdacity
 - My current progress is:\
-  **2. Modern Private Cloud Infrastructure** (Progress 12%)\
-    - **Lesson 2. Journey to the Modern Cloud** (Progress 33%)\
-		- **Cloud Considerations*
+  **2. Modern Private Cloud Infrastructure** (Progress 12%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 33%)
+		- **Cloud Considerations**
 		- **Cloud Considerations: Workload Predictability**
 
 ![Day 6 1st](images/day-06-1.png)
@@ -15,8 +15,8 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 ## Day 5: June 27, 2020. #90DaysofUdacity
 - My current progress is:\
-  **2. Modern Private Cloud Infrastructure** (Progress 10%)\
-    - **Lesson 2. Journey to the Modern Cloud** (Progress 25%)\
+  **2. Modern Private Cloud Infrastructure** (Progress 10%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 25%)
 		- **Application Design: Distributed Web Scale**
 			3-tier Web Application
 			![3-tier Web Architecture](images/3-tier-arch.png)
@@ -27,8 +27,8 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 ## Day 4: June 26, 2020. #90DaysofUdacity
 - My current progress is:\
-  **2. Modern Private Cloud Infrastructure** (Progress 8%)\
-    - **Lesson 2. Journey to the Modern Cloud** (Progress 20%)\
+  **2. Modern Private Cloud Infrastructure** (Progress 8%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 20%)
 		- **Understanding the Cloud**
 			The Cloud is an Experience and a Mindset
 			 ![Cloud](images/cloud.png)
@@ -41,7 +41,7 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 ## Day 3: June 25, 2020. #90DaysofUdacity
 - My current progress is:\
-  **2. Modern Private Cloud Infrastructure** (Progress 7%)\
+  **2. Modern Private Cloud Infrastructure** (Progress 7%)
 	In this lesson, we’re going to cover:
 	1. What the role of a Hybrid Cloud Engineer is
     2. The different models to support various Cloud initiatives
