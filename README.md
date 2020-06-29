@@ -2,6 +2,16 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 6: June 28, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 10%)\
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 25%)\
+		- **Cloud Considerations*
+		- **Cloud Considerations: Workload Predictability**
+
+![Day 6 1st](images/day-06-1.png)
+![Day 6 2nd](images/day-06-2.png)
+
 
 ## Day 5: June 27, 2020. #90DaysofUdacity
 - My current progress is:\
