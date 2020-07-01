@@ -1,6 +1,29 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 8: June 30, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 12%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 33%)
+		- **Cloud Smart, Not Cloud First**
+			Cloud Smart is about rationalizing applications, infrastructure, skills, and people across hybrid clouds and ensuring everything is where it fits best.
+		- **Why Cloud Smart?**
+
+![Day 8 1st](images/day-08-1.png)
+![Day 8 2nd](images/day-08-2.png)
+
+
+## Day 7: June 29, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 13%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 35%)
+		- **Organizational Readiness Fundamentals**
+			Organizational readiness refers to how ready a business is to execute their cloud transformation plan successfully.
+		- **What is Cloud Readiness?**
+
+![Day 7 1st](images/day-07-1.png)
+![Day 7 2nd](images/day-07-2.png)
+
 
 ## Day 6: June 28, 2020. #90DaysofUdacity
 - My current progress is:\
