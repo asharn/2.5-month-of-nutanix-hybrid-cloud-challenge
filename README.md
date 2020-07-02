@@ -1,6 +1,18 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 9: July 1, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 17%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 50%)
+		- **Legacy of IT: The Mainframe**
+			Advantage and Disadvantage of Mainframe Machine
+		- **Legacy of IT: Distributed Computing**
+
+![Day 9 1st](images/day-09-1.png)
+![Day 9 2nd](images/day-09-2.png)
+
+
 ## Day 8: June 30, 2020. #90DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 13%)
