@@ -3,8 +3,8 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 ## Day 8: June 30, 2020. #90DaysofUdacity
 - My current progress is:\
-  **2. Modern Private Cloud Infrastructure** (Progress 12%)
-    - **Lesson 2. Journey to the Modern Cloud** (Progress 33%)
+  **2. Modern Private Cloud Infrastructure** (Progress 13%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 38%)
 		- **Cloud Smart, Not Cloud First**
 			Cloud Smart is about rationalizing applications, infrastructure, skills, and people across hybrid clouds and ensuring everything is where it fits best.
 		- **Why Cloud Smart?**
