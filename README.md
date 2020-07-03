@@ -1,6 +1,21 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+
+## Day 10: July 2, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 20%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 60%)
+		- **Legacy IT: Centralized Storage and 3-tier**
+			Advantage and Disadvantage of Centralized Storage and 3-tier
+			![3-tier-architecture](images/3-tier-architecture.png)
+		- **Legacy IT: x86 Virtualization**
+		![virtualization](images/x86-virtualization.png)
+
+![Day 10 1st](images/day-10-1.png)
+![Day 10 2nd](images/day-10-2.png)
+
+
 ## Day 9: July 1, 2020. #90DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 17%)
