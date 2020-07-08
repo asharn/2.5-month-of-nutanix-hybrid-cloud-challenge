@@ -2,6 +2,55 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 14: July 6, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 25%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 78%)
+		- **Hyperconverged Infrastructure (HCI)**
+			Hyperconverged Infrastructure (HCI) converges the entire datacenter stack, including compute, storage, networking, and virtualization. Some key points to remember about HCI are:
+
+				- Software running on each server node distributes all operating functions across a cluster. This allows incremental scaling, so that a cluster can be grown one node at a time; performance increases as the environment grows.
+				- The software also creates clusters and pools local storage, eliminating the need for SAN or NAS infrastructure​.
+				- The removal of the physical storage fully unleashes the power of the SDDC.
+				- The use of solid state drives (SSDs), combined with data locality, provides excellent cluster performance without bottlenecks.
+
+![Day 14 1st](images/day-14-1.png)
+
+
+## Day 13: July 5, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 24%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 75%)
+		- **Exercise: Public Cloud**
+		- **Quiz: The Rise of Public Cloud**
+		- **Quiz: Hybrid Cloud**
+
+![Day 13 1st](images/day-13-1.png)
+![Day 13 2nd](images/day-13-2.png)
+
+
+## Day 12: July 4, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 22%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 68%)
+		- **Exercise: Legacy IT**
+		- **The Rise of Public Cloud**
+
+![Day 12 1st](images/day-12-1.png)
+![Day 12 2nd](images/day-12-2.png)
+
+
+## Day 11: July 3, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 21%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 65%)
+		- **Legacy IT: Hybrid Cloud Readiness**
+		- **Legacy IT: The Software Defined Datacenter (SDDC)**
+
+![Day 11 1st](images/day-11-1.png)
+![Day 11 2nd](images/day-11-2.png)
+
+
 ## Day 10: July 2, 2020. #90DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 20%)
@@ -111,7 +160,6 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 ![Day 3 2nd](images/day-03-3.png)
 
 
-
 ## Day 2: June 24, 2020. #90DaysofUdacity
 - My current progress is:\
   **Lesson 1. Introduction to the Nutanix Hybrid Cloud** (Progress 100%)
@@ -130,7 +178,6 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 ![Day 2 1st](images/day-02-1.png)
 ![Day 2 2nd](images/day-02-2.png)
 ![Day 2 3rd](images/day-02-3.png)
-
 
 
 ## Day 1: June 23, 2020. #90DaysofUdacity
