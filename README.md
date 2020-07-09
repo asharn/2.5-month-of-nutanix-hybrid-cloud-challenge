@@ -7,7 +7,7 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
   **2. Modern Private Cloud Infrastructure** (Progress 27%)
     - **Lesson 2. Journey to the Modern Cloud** (Progress 88%)
 		- **Quiz: Hyperconverged Infrastructure (HCI)**
-		- *Exercise: Hyperconverged Infrastructure (HCI)**
+		- **Exercise: Hyperconverged Infrastructure (HCI)**
 
 ![Day 15 1st](images/day-15-1.png)
 ![Day 15 2nd](images/day-15-2.png)
