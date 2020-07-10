@@ -1,6 +1,21 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 16: July 9, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 29%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 93%)
+		- **Hybrid Cloud: Hybrid Cloud: When To Use It And When Not To**
+		    Remember, hybrid cloud is not a good fit when:
+			- A business has non-portable applications
+			- Security and regulatory compliance requirements do not allow public cloud exposure
+			- Delegation of management responsibilities to a service provider is not allowed
+			- The Public Cloud is too expensive
+		- **Cloud Smart Examples**
+
+![Day 16 1st](images/day-16-1.png)
+![Day 16 2nd](images/day-16-2.png)
+
 
 ## Day 15: July 8, 2020. #90DaysofUdacity
 - My current progress is:\
