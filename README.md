@@ -1,6 +1,34 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 18: July 11, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 30%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 100%)
+		- **Lesson Recap**
+		In this lesson, we covered:
+			- What the role of a Hybrid Cloud Engineer is
+			- The different models to support various Cloud initiatives
+			- The Engineer’s role in Service Level Agreements related to Cloud apps
+			- How to choose the optimal Cloud platform for an app, based on business requirements and SLAs
+		- **User Test - LINK TO USER TESTING SURVEY - LESSON**
+
+![Day 18 1st](images/day-18-1.png)
+![Day 18 2nd](images/day-18-2.png)
+
+
+
+## Day 17: July 10, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 30%)
+    - **Lesson 2. Journey to the Modern Cloud** (Progress 98%)
+		- **Gathering and Analyzing Business Requirements**
+		- **Turning Business Requirements into SLAs**
+
+![Day 17 1st](images/day-17-1.png)
+![Day 17 2nd](images/day-17-2.png)
+
+
 ## Day 16: July 9, 2020. #90DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 29%)
