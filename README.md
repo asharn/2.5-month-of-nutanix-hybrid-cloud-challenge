@@ -12,9 +12,17 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 			- The Engineer’s role in Service Level Agreements related to Cloud apps
 			- How to choose the optimal Cloud platform for an app, based on business requirements and SLAs
 		- **User Test - LINK TO USER TESTING SURVEY - LESSON**
+		
+		
+
+I will encourage @LauraT @VIRAL @Haseeb Ahmed Khan @Yash Kulkarni @adventuroussrv 	
+						@Christopher Lee @Aishwarya @Sandeep Kumar Jha @Vishnu Vamsee Paningipalli 
+						@Jayaraj J  , @Eshwar Kamalapathy  @Priya Bhandari
 
 ![Day 18 1st](images/day-18-1.png)
 ![Day 18 2nd](images/day-18-2.png)
+
+
 
 
 
