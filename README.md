@@ -1,6 +1,74 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+## Day 21: July 14, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 36%)
+    - **Lesson 3. Introduction to Nutanix HCL** (Progress 32%)
+		- **Software Components: Acropolis**
+			![AHV](images/slide-22-ahv.png)
+		- **Software Components: Prism**
+		    Prism is a distributed management plane that uses advanced data analytics and heuristics to simplify and streamline common workflows, eliminating the need for separate management solutions for servers, storage networks, storage, and virtualization. It provides a unified management interface that can generate actionable insights for optimizing virtualization, provides infrastructure management and everyday operations. 
+
+I will encourage @LauraT @VIRAL @Haseeb Ahmed Khan @Yash Kulkarni @adventuroussrv 	
+						@Christopher Lee @Aishwarya @Sandeep Kumar Jha @Vishnu Vamsee Paningipalli 
+						@Jayaraj J  , @Eshwar Kamalapathy  @Priya Bhandari @Navrati @Paloma @Jose Rubio 
+						@Iqbal Singh @Francky Vaval  @andres.saurez @Remi @Shiva Upadhyay @Sandeep Reddy Salkuti
+
+![Day 21 1st](images/slide-19-distributed-storage-fabric.png)
+![Day 21 2nd](images/day-21-2.png)
+
+
+## Day 20: July 13, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 35%)
+    - **Lesson 3. Introduction to Nutanix HCL** (Progress 23%)
+		- **What is Nutanix HCI?**
+		Nutanix HCI is fully software-defined, which is required from a true HCI solution. This means that the intelligence of the solution comes from the software, which runs on a variety of hardware platforms.\
+		There are two key components to the software:
+		1. Acropolis: The data plane
+		2. Prism: The management plane
+
+		- **Hardware Components: Nodes, Blocks, and Clusters**
+
+I will encourage @LauraT @VIRAL @Haseeb Ahmed Khan @Yash Kulkarni @adventuroussrv 	
+						@Christopher Lee @Aishwarya @Sandeep Kumar Jha @Vishnu Vamsee Paningipalli 
+						@Jayaraj J  , @Eshwar Kamalapathy  @Priya Bhandari
+
+![Day 20 1st](images/day-20-1.png)
+
+
+## Day 19: July 12, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 33%)
+    - **Lesson 3. Introduction to Nutanix HCL** (Progress 14%)
+		- **Lesson Overview**
+		In this lesson, we're going to introduce you to the Nutanix HCI by going over the following:
+		1. The what and why of Nutanix HCI
+		2. The components of a cluster
+		3. The software components of a Nutanix cluster
+		4. How to work with the Prism interface
+
+		- **Why Nutanix HCI?**
+		There are six major benefits to Nutanix HCI specifically: 
+		1. Full-cloud
+		2. One-click simplicity
+		3. Deployed in minutes
+		4. Automation application management
+		5. Lower cloud costs
+		6. True hybrid cloud
+		
+		
+
+I will encourage @LauraT @VIRAL @Haseeb Ahmed Khan @Yash Kulkarni @adventuroussrv 	
+						@Christopher Lee @Aishwarya @Sandeep Kumar Jha @Vishnu Vamsee Paningipalli 
+						@Jayaraj J  , @Eshwar Kamalapathy  @Priya Bhandari
+
+![Day 19 1st](images/day-19-1.png)
+![Day 19 2nd](images/day-19-2.png)
+
+
+
 ## Day 18: July 11, 2020. #90DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 30%)
@@ -21,9 +89,6 @@ I will encourage @LauraT @VIRAL @Haseeb Ahmed Khan @Yash Kulkarni @adventuroussr
 
 ![Day 18 1st](images/day-18-1.png)
 ![Day 18 2nd](images/day-18-2.png)
-
-
-
 
 
 ## Day 17: July 10, 2020. #90DaysofUdacity
