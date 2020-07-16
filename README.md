@@ -1,6 +1,24 @@
 # 2.5-month-of-nutanix-hybrid-cloud-challenge
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
+
+## Day 22: July 15, 2020. #90DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 38%)
+    - **Lesson 3. Introduction to Nutanix HCL** (Progress 45%)
+		- **Exercise: Logging into Prism**
+		- **Infrastructure Management: Cluster Management**
+
+I will encourage @LauraT @VIRAL @Haseeb Ahmed Khan @Yash Kulkarni @adventuroussrv 	
+						@Christopher Lee @Aishwarya @Sandeep Kumar Jha @Vishnu Vamsee Paningipalli 
+						@Jayaraj J  , @Eshwar Kamalapathy  @Priya Bhandari @Navrati @Paloma @Jose Rubio 
+						@Iqbal Singh @Francky Vaval  @andres.saurez @Remi @Shiva Upadhyay @Sandeep Reddy Salkuti
+						@Shamli Singh @Sabeer @sbessette @Mary Becken @Remi @Ali Asim Kazmi @Jorge Barrera @Bunny 
+						@Trung Bui @Khalid  @David Jurado
+						
+![Day 22 1st](images/day-22-1.png)
+
+
 ## Day 21: July 14, 2020. #90DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 36%)
