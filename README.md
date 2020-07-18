@@ -2,6 +2,39 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 24: July 17, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 47%)
+    - **Lesson 3. Introduction to Nutanix HCL** (Progress 100%)
+		- **Infrastructure Management: Virtual Machine Management**
+		- **Infrastructure Management: Data Protection**
+		- **Managing a Nutanix Cluster: Operational Insights**
+		- **Operational Insights: Analysis Dashboard**
+		- **Capacity Planning: Capacity Runway**
+		- **Capacity Planning: Scenarios**
+		- **Prism Performance Monitoring: Creating Charts**
+			- Matrix
+			- Entity
+		- **Performance Monitoring: Alert Emails**
+		- **Lesson Recap**
+			- The hardware and software components of HCI
+			- Acropolis: AHV, DSF, Virtual Networking, Storage Services
+			- Prism: Infrastructure Management, Operational Insights, Capacity Planning, and Performance Monitoring
+			
+
+I will encourage @LauraT @VIRAL @Haseeb Ahmed Khan @Yash Kulkarni @adventuroussrv 	
+						@Christopher Lee @Aishwarya @Sandeep Kumar Jha @Vishnu Vamsee Paningipalli 
+						@Jayaraj J  , @Eshwar Kamalapathy  @Priya Bhandari @Navrati @Paloma @Jose Rubio 
+						@Iqbal Singh @Francky Vaval  @andres.saurez @Remi @Shiva Upadhyay @Sandeep Reddy Salkuti
+						@Shamli Singh @Sabeer @sbessette @Mary Becken @Remi @Ali Asim Kazmi @Jorge Barrera @Bunny 
+						@Trung Bui @Khalid  @David Jurado @Pree @jose praveen @Hafeez Ghanchi @Bryan R S 
+						@Gaurav Handa @Making a difference in new and Unexpected Ways @Rahul Chauhan
+						
+![Day 24 1st](images/day-24-1.png)
+![Day 24 2nd](images/day-24-2.png)
+![Day 24 3rd](images/day-24-3.png)
+
+
 ## Day 23: July 16, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 40%)
