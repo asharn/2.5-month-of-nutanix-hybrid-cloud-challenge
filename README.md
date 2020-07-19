@@ -2,6 +2,25 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 25: July 18, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 58%)
+    - **Lesson 4. Hybrid Cloud Security** (Progress 30%)
+		- **Introduction to Hybrid Cloud Security**
+		- **Infrastructure Management: Data Protection**
+			- TAA Compliance
+			- NSA Suite B
+			- 508 Compliance
+			- FIPS Compliance
+			- Common Criteria
+
+I will encourage @Hafeez Ghanchi @Bryan R S @Gaurav Handa @Rahul Chauhan
+						
+![Day 25 1st](images/day-25-1.png)
+![Day 25 2nd](images/day-25-2.png)
+
+
+
 ## Day 24: July 17, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 47%)
@@ -24,11 +43,11 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 I will encourage @LauraT @VIRAL @Haseeb Ahmed Khan @Yash Kulkarni @adventuroussrv 	
 						@Christopher Lee @Aishwarya @Sandeep Kumar Jha @Vishnu Vamsee Paningipalli 
-						@Jayaraj J  , @Eshwar Kamalapathy  @Priya Bhandari @Navrati @Paloma @Jose Rubio 
+						@Jayaraj J @Eshwar Kamalapathy  @Priya Bhandari @Navrati @Paloma @Jose Rubio 
 						@Iqbal Singh @Francky Vaval  @andres.saurez @Remi @Shiva Upadhyay @Sandeep Reddy Salkuti
 						@Shamli Singh @Sabeer @sbessette @Mary Becken @Remi @Ali Asim Kazmi @Jorge Barrera @Bunny 
 						@Trung Bui @Khalid  @David Jurado @Pree @jose praveen @Hafeez Ghanchi @Bryan R S 
-						@Gaurav Handa @Making a difference in new and Unexpected Ways @Rahul Chauhan
+						@Gaurav Handa @Rahul Chauhan
 						
 ![Day 24 1st](images/day-24-1.png)
 ![Day 24 2nd](images/day-24-2.png)
