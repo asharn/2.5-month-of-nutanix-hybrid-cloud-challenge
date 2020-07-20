@@ -2,6 +2,18 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 26: July 19, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 59%)
+    - **Lesson 4. Hybrid Cloud Security** (Progress 40%)
+		- **How Secure Are Your Clouds?**
+		- **Securing Clouds from the Ground Up**
+
+I will encourage @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta
+						
+![Day 26 1st](images/day-26-1.png)
+![Day 26 2nd](images/day-26-2.png)
+
 ## Day 25: July 18, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 58%)
