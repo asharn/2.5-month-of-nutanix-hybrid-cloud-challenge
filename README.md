@@ -2,6 +2,38 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+
+## Day 27: July 20, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 68%)
+    - **Lesson 4. Hybrid Cloud Security** (Progress 100%)
+		- **Security Development Life Cycle**
+		- **SecDL: Analyze**
+		- **SecDL: Design**
+		- **SecDL: Implement**
+		- **SecDL: Test**
+		- **SecDL: Update**
+		- **SecDL and Nutanix**
+		- **Security in the Hybrid Cloud**
+		- **Two-Factor Authentication**
+			- One way authentication
+			- Two way authentication
+			- Two-factor authentication 
+		- **Cluster Lockdown**
+		- **Key Management and Administration(KMA)**
+		- **Security Technical Implementation Guides**
+		- **Data-at-Rest Encryption**
+		- **Role-Based Access Control**
+		
+
+I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta @Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira @Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama @Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González @Anshu Trivedi
+						
+![Day 27 1st](images/day-27-1.png)
+![Day 27 2nd](images/day-27-2.png)
+![Day 27 3rd](images/day-27-3.png)
+![Day 27 4th](images/day-27-4.png)
+
+
 ## Day 26: July 19, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 59%)
