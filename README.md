@@ -3,6 +3,29 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 
 
 
+
+## Day 28: July 21, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 71%)
+    - **Lesson 5. Networking** (Progress 30%)
+		Lesson Overview
+			- Introduction to Physical and Virtual Networking
+			- Components of AHV Networking
+			- Working with VLANs
+		- **Introduction to Networking: Physical Networking**
+		Physical networking is about the network topology – the devices, their location, and the physical cables that connect those devices to each other. The network is a key component in ensuring high performance and availability, and successful deployments combine the right physical switches with the right physical designs. 
+		- **Physical Networking Topology: Core-Aggregation-Access (3-Tier)**
+		- **Using 3-Tier in a Nutanix Depoloyment**
+		![using-core-aggregation-access-in-a-nutanix-deployment](images/using-core-aggregation-access-in-a-nutanix-deployment.png)
+		
+
+I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta 
+											@Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira 
+											@Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama 
+											@Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González 
+											@Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan 
+
+
 ## Day 27: July 20, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 68%)
