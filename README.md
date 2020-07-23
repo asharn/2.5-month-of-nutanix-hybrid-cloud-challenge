@@ -12,13 +12,13 @@ This repo contains all the information related to Nutanix® Hybrid Cloud Scholar
 		- **Leaf Spine: Using Leaf-Spine in a Nutanix Deployment**
 		![using-leaf-spine-in-a-nutanix-deployment](images/using-leaf-spine-in-a-nutanix-deployment.png)
 		- **Introduction to Networking: Virtual Networking**
-			- **Virtual Networking: Virtual Switches**
+			- **Virtual Networking: Virtual Switches**\
 				**Virtual switches** allow communication between virtual machines. More specifically, they intelligently direct communication on a network by checking data packets before sending them along to their destination.
-			- **Virtual Networking: Bridges**
+			- **Virtual Networking: Bridges**\
 				**Bridges** act as virtual switches that manage network traffic between physical and virtual network interfaces.
-			- **Virtual Networking: Ports**
+			- **Virtual Networking: Ports**\
 				**Ports** are logical constructs created in a bridge that represent connectivity to the virtual switch. Nutanix uses several port types, including internal, tap, VXLAN, and bond.
-			- **Virtual Networking: Bonds**
+			- **Virtual Networking: Bonds**\
 				- **Bond Modes: active-backup**
 				![active-bacup-bond-mode](images/active-bacup-bond-mode.png)
 				- **Bond Modes: Balance-slb**
