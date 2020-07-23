@@ -2,6 +2,39 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 29: July 22, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 78%)
+    - **Lesson 5. Networking** (Progress 74%)
+		- **Physical Networking Topology: Leaf-Spine**
+			**Spine** switches contain the routing, switching, and network services required for core network functions. **Leaf** switches exclusively provide high port density for network communications and extend the network configuration of the core out to the endpoints. 
+		- **Leaf Spine: Using Leaf-Spine in a Nutanix Deployment**
+		![using-leaf-spine-in-a-nutanix-deployment](images/using-leaf-spine-in-a-nutanix-deployment.png)
+		- **Introduction to Networking: Virtual Networking**
+			- Virtual Networking: Virtual Switches
+				Virtual switches allow communication between virtual machines. More specifically, they intelligently direct communication on a network by checking data packets before sending them along to their destination.
+			- Virtual Networking: Bridges
+				Bridges act as virtual switches that manage network traffic between physical and virtual network interfaces.
+			- Virtual Networking: Ports
+				Ports are logical constructs created in a bridge that represent connectivity to the virtual switch. Nutanix uses several port types, including internal, tap, VXLAN, and bond.
+			- Virtual Networking: Bonds
+				- Bond Modes: active-backup
+				![active-bacup-bond-mode](images/active-bacup-bond-mode.png)
+				- Bond Modes: Balance-slb
+				![balance-slb-bond-mode](images/balance-slb-bond-mode.png)
+				- Bond Modes: Balance-tcp
+		
+
+I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta 
+											@Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira 
+											@Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama 
+											@Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González 
+											@Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan 
+											@Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri
+											
+![Day 29 1st](images/day-29-1.png)
+![Day 29 2nd](images/day-29-2.png)
+![Day 29 3rd](images/day-29-3.png)
 
 
 ## Day 28: July 21, 2020. #30DaysofUdacity
