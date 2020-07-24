@@ -2,6 +2,30 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 30: July 23, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 85%)
+    - **Lesson 5. Networking** (Progress 100%)
+		- **VLAN**\
+		A virtual LAN, or **VLAN**, is a subgroup of a network, which combines multiple networking devices into a single domain and partitions them off from the rest.
+			- **Managed Networks**
+				- **Exercise and Solution: Create a Managed Network**
+			- **Unmanaged Networks**
+				- **Exercise and Solution: Creating an Unmanaged Network**
+		
+
+I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta 
+											@Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira 
+											@Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama 
+											@Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González 
+											@Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan 
+											@Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri
+											@Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana 
+											
+![Day 30 1st](images/day-30-1.png)
+![Day 30 2nd](images/day-30-2.png)
+
+
 ## Day 29: July 22, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 78%)
