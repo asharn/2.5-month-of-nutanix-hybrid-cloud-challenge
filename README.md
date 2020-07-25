@@ -2,6 +2,30 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 31: July 24, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 86%)
+    - **Lesson 6. Managing Virtual Machines in the Hybrid Cloud** (Progress 47%)
+		- **Lesson Overview**\
+			- Introduction to VM management
+			- Working with Disc Images
+			- Creating and Managing VMs
+			- Understanding VM High Availability
+		- **The VM Dashboard**
+		- **Working with Images**
+		
+
+I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta 
+											@Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira 
+											@Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama 
+											@Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González 
+											@Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan 
+											@Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri
+											@Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana 
+											
+![Day 31 1st](images/day-31-1.png)
+
+
 ## Day 30: July 23, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 85%)
