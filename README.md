@@ -2,6 +2,41 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 32: July 25, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 92%)
+    - **Lesson 6. Managing Virtual Machines in the Hybrid Cloud** (Progress 100%)
+		- **Exercise: Uploading Images to the Image Service**
+		- **Creating a VM**
+		- **Exercise: Creating a VM**
+		- **Updating/Modifying a VM**
+		- **Exercise: Updating CPU and Memory on a VM**
+		- **Cloning a VM**
+		- **Deleting a VM**
+		- **Migrating a VM** 
+		- **What is VM High Availability?**\
+			High availability refers to the ability of a system to run continuously without failure. This doesn’t mean that the system or components of it cannot fail; It just means that the system is designed to account for and compensate for failures when they happen. And, since VMs represent the interface with which end users interact with a virtualized system, being able to provide high uptime and strong tolerance for failure is especially important.
+		- **Enabling VM HA**
+		- **Lesson Recap and Glossary**
+
+		
+
+I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta 
+											@Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira 
+											@Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama 
+											@Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González 
+											@Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan 
+											@Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri
+											@Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana @Rav
+											@Jhonatan Nagasako @Christine Rehm @Juan T @Remi @Jaykumar Patel @@Quan
+											@Wilson
+											
+![Day 32 1st](images/day-32-1.png)
+![Day 32 2nd](images/day-32-2.png)
+![Day 32 3rd](images/day-32-3.png)
+
+
+
 ## Day 31: July 24, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 86%)
