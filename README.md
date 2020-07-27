@@ -2,6 +2,57 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+
+## Day 33: July 26, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 98%)
+    - **Lesson 7. Data Protection** (Progress 78%)
+		- **Lesson Overview**
+			- The state of data protection
+			- The complexities of data protection in a hybrid cloud world
+			- Data protection trends
+			- Data protection in the hybrid cloud
+		- **The Cost of a Disaster**
+		- **Data Protection Challenges**
+		- **Data Protection Trends**
+			- **Application-centric protection**
+			- **Automation**
+			- **Copy data management**
+		- **RTO and RPO**
+			- **Recovery Time Objective** refers to the time allowed to restore normal operations when an IT failure or disruption occurs, in order to avoid unacceptable consequences associated with a break in business continuity. An RTO of one hour means an application or a data-set will be back online within one hour after a failure occurs.\
+			- **Recovery Point Object refers** to the quantity of data that a business can lose, before the amount of data lost during that period, exceeds a maximum allowable threshold which would result in unacceptable consequences associated with a break in business continuity.
+		- **Data Protection in the Hybrid Cloud**
+		- **Infrastructure Resilience**
+			- **Infrastructure Resilience: Tunable Redundancy**\
+				**Tunable redundancy**, replaces traditional, hardware-centric RAID. Each Nutanix data container, which is the equivalent of a VM datastore, has a data Replication Factor, or “RF”, of 2 or 3. This means that either two or three copies of data are maintained at all times.
+			![infrastruture-resilience:-tunable-redundancy](images/infrastruture-resilience:-tunable-redundancy.png)
+			- **Infrastructure Resilience: Erasure Coding**\
+				**Erasure Coding** encodes a strip of data blocks that reside on different nodes in the cluster, and calculates parity using software, instead of physical disk controllers. 
+			![infrastructureresilience:-erasure-coding](images/infrastructureresilience:-erasure-coding.png)
+			- **Infrastructure Resilience: Integrity Checks**
+			- **Infrastructure Resilience: Availability Domains**
+				- **Node Awareness:** Exactly how a cluster survives node failures without losing access to its data.
+				- **Block Awareness:** Block awareness takes node awareness a step further, by distributing data replicas across multiple blocks. A block, incidentally, is a multi-node enclosure that can contain up to four nodes. In the case of block awareness, if a block fails, there is always at least one replica of all data on the node of another block.
+				- **Rack Awareness:** Rack awareness builds on block awareness in the same way, and provides data availability in case of a rack-level failure, for instance a power outage.
+		
+
+I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta 
+											@Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira 
+											@Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama 
+											@Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González 
+											@Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan 
+											@Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri
+											@Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana @Rav
+											@Jhonatan Nagasako @Christine Rehm @Juan T @Remi @Jaykumar Patel @Quan
+											@Wilson @Christian Rivera @SALMAN ZAMAN @Nigel P @Jonathan Blanco @JohnBucMoore
+											
+![Day 33 1st](images/day-33-1.png)
+![Day 33 2nd](images/day-33-2.png)
+![Day 33 3rd](images/day-33-3.png)
+
+
+
+
 ## Day 32: July 25, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 92%)
