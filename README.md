@@ -2,6 +2,34 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 34: July 27, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 100%)
+    - **Lesson 7. Data Protection** (Progress 94%)
+		- **Backups Overview**\
+		Regular backups are the second line of defense in data protection, and the only protection against user, administrator, and application errors that result in data being deleted or corrupted. The Nutanix hybrid cloud provides three levels of backup:
+			- Converged local backup with snapshots
+			- Integrated remote backup
+			- Cloud backups
+		- **Exercise: Creating Protection Domains/Local VM Restore**
+		- **Converged Local Backup with Nutanix Snapshot**
+
+I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta 
+											@Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira 
+											@Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama 
+											@Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González 
+											@Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan 
+											@Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri
+											@Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana @Rav
+											@Jhonatan Nagasako @Christine Rehm @Juan T @Remi @Jaykumar Patel @Quan
+											@Wilson @Christian Rivera @SALMAN ZAMAN @Nigel P @Jonathan Blanco @JohnBucMoore
+											@LauraT @Serjesh @Nícolas Pauli @Jaskaran Singh @AlabamaRatchet @Al Kuilan @Noel Situ
+											@AndyP @Juan T @Jhonatan Nagasako @Isaac Yauri  @Shamli Singh @Marc Kristen
+											
+![Day 34 1st](images/day-34-1.png)
+![Day 34 2nd](images/day-34-2.png)
+
+
 
 ## Day 33: July 26, 2020. #30DaysofUdacity
 - My current progress is:\
