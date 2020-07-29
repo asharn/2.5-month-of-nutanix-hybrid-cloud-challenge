@@ -2,6 +2,57 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+Today, I am able to complete this challenge which takes almost 35 days of dedicated hard work. I personally feel the course content was easy for every one to grasp and learn fast. 
+In the whole process, I have learned: \
+
+- How technology evolved over the years to bring us to the hybrid cloud of today.
+- Got familiar with the basics of hybrid cloud networking, security, virtual machine management, and data protection.
+- Became a little more comfortable with hyperconverged infrastructure and the hybrid cloud itself.
+
+Thanks to Everyone\
+
+Next I will help other to solve their query.
+
+Certificate\
+![Nutanix Scholarship Certificate.](images/nutanixscholarshipcertificate.jpg)
+
+Today Status:\
+## Day 35: July 28, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 100%)
+    - **Lesson 7. Data Protection** (Progress 94%)
+		- **Integrated Remote Backup**\
+		- **Cloud Backups**
+		- **Lesson Recap**\
+			- The state of data protection
+			- The complexities of data protection in a hybrid cloud world
+			- Data protection trends
+			- Data protection in the hybrid cloud
+			![Different Modules](images/different-module.png)
+
+
+I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta 
+											@Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira 
+											@Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama 
+											@Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González 
+											@Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan 
+											@Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri
+											@Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana @Rav
+											@Jhonatan Nagasako @Christine Rehm @Juan T @Remi @Jaykumar Patel @Quan
+											@Wilson @Christian Rivera @SALMAN ZAMAN @Nigel P @Jonathan Blanco @JohnBucMoore
+											@LauraT @Serjesh @Nícolas Pauli @Jaskaran Singh @AlabamaRatchet @Al Kuilan @Noel Situ
+											@AndyP @Juan T @Jhonatan Nagasako @Isaac Yauri  @Shamli Singh @Marc Kristen
+											@Mokit Hossain @Lovepreet Singh @Mariia @Pree  @susyjam @Ashique Bin Iqbal @Iqbal Singh 
+											@Lovepreet Singh  @Mitchell Greifeneder @Jiva @Frida @Ali Asim Kazmi @EO4Wellness @Omar
+											@Mike McK @Aaron @Aayushi Bhatiya @Abdallah Melloul @Melissa Bloomer @Md. Fahim Foysal
+											@Juan T @Prachal Patel @Ashraf Kanyadakam @Romana Akter @Jum @Chris M @Shivani @Ayodeji
+											@Alekhya V @Amardeep Singh @Lara Freiria @Abhinav Rastogi @Mahitej
+											
+![Day 35 1st](images/day-35-1.png)
+![Day 35 2nd](images/day-35-2.png)
+![Day 35 3rd](images/day-35-3.png)
+
+
 ## Day 34: July 27, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 100%)
@@ -25,6 +76,8 @@ I will encourage random folks @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shas
 											@Wilson @Christian Rivera @SALMAN ZAMAN @Nigel P @Jonathan Blanco @JohnBucMoore
 											@LauraT @Serjesh @Nícolas Pauli @Jaskaran Singh @AlabamaRatchet @Al Kuilan @Noel Situ
 											@AndyP @Juan T @Jhonatan Nagasako @Isaac Yauri  @Shamli Singh @Marc Kristen
+											@Rothwulf @Emily Chang @Monisha gali @Oladapo Bolarinwa @Nienke Bos @Sadia 
+											@Aaron @Aayushi Bhatiya @Abdallah Melloul @Melissa Bloomer @Md. Fahim Foysal
 											
 ![Day 34 1st](images/day-34-1.png)
 ![Day 34 2nd](images/day-34-2.png)
