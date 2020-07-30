@@ -2,6 +2,36 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+I am very excited after seeing something which is a key of collecting overall knowlege from different lessons and that is a new lesson with title **PROJECT**.
+## Day 36: July 29, 2020. #30DaysofUdacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 100%)
+    - **Lesson 8. Project** (Progress 67%)
+		- **Project Overview**
+		- **Company E-mails**
+
+
+I will encourage awesome folks who are doing great @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta 
+											@Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira 
+											@Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama 
+											@Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González 
+											@Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan 
+											@Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri
+											@Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana @Rav
+											@Jhonatan Nagasako @Christine Rehm @Juan T @Remi @Jaykumar Patel @Quan
+											@Wilson @Christian Rivera @SALMAN ZAMAN @Nigel P @Jonathan Blanco @JohnBucMoore
+											@LauraT @Serjesh @Nícolas Pauli @Jaskaran Singh @AlabamaRatchet @Al Kuilan @Noel Situ
+											@AndyP @Juan T @Jhonatan Nagasako @Isaac Yauri  @Shamli Singh @Marc Kristen
+											@Mokit Hossain @Lovepreet Singh @Mariia @Pree  @susyjam @Ashique Bin Iqbal @Iqbal Singh 
+											@Lovepreet Singh  @Mitchell Greifeneder @Jiva @Frida @Ali Asim Kazmi @EO4Wellness @Omar
+											@Mike McK @Aaron @Aayushi Bhatiya @Abdallah Melloul @Melissa Bloomer @Md. Fahim Foysal
+											@Juan T @Prachal Patel @Ashraf Kanyadakam @Romana Akter @Jum @Chris M @Shivani @Ayodeji
+											@Alekhya V @Amardeep Singh @Lara Freiria @Abhinav Rastogi @Mahitej
+											
+![Day 36 1st](images/day-36-1.png)
+
+
+
 Today, I am able to complete this challenge which takes almost 35 days of dedicated hard work. I personally feel the course content was easy for every one to grasp and learn fast. 
 In the whole process, I have learned: \
 
@@ -20,7 +50,7 @@ Today Status:\
 ## Day 35: July 28, 2020. #30DaysofUdacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 100%)
-    - **Lesson 7. Data Protection** (Progress 94%)
+    - **Lesson 7. Data Protection** (Progress 100%)
 		- **Integrated Remote Backup**\
 		- **Cloud Backups**
 		- **Lesson Recap**\
