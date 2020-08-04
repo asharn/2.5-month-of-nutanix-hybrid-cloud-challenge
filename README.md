@@ -2,6 +2,23 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 41 August 03, 2020. #30days_udacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 100%)
+    - **Revised Lesson 2.  Journey to the Modern Cloud**
+	- [**[IDC: Digital transformation spending will eat up 53% of IT budgets by 2023**](https://www.techrepublic.com/article/idc-digital-transformation-spending-will-eat-up-50-of-it-budgets-by-2023/)
+	- **Understanding the Cloud**
+		
+
+I will send good vibes to awesome folks who are doing great @Ankita Ghosh @Sichen @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta @Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira @Dhirendra @Moussa.seck @Sudheer Kumar @Anna Brakowska @Leonardo Hideki Ishikiriyama @Mahesh BUDAVARAPU @Rao Kamran @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González @Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan @Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri	@Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana @Rav @Jhonatan Nagasako @Christine Rehm @Juan T @Remi @Jaykumar Patel @Quan @Wilson @Christian Rivera @SALMAN ZAMAN @Nigel P @Jonathan Blanco @JohnBucMoore @LauraT @Serjesh @Nícolas Pauli @Jaskaran Singh @AlabamaRatchet @Al Kuilan @Noel Situ @AndyP @Juan T @Jhonatan Nagasako @Isaac Yauri  @Shamli Singh @Marc Kristen @Mokit Hossain @Lovepreet Singh @Mariia @Pree  @susyjam @Ashique Bin Iqbal @Iqbal Singh 	@Lovepreet Singh  @Mitchell Greifeneder @Jiva @Frida @Ali Asim Kazmi @EO4Wellness @Omar @Mike McK @Aaron @Aayushi Bhatiya @Abdallah Melloul @Melissa Bloomer @Md. Fahim Foysal @Juan T @Prachal Patel @Ashraf Kanyadakam @Romana Akter @Jum @Chris M @Shivani @Ayodeji @Alekhya V @Amardeep Singh @Lara Freiria @Abhinav Rastogi @Mahitej @Sanyam @AlbertS @Muhammad Arif Wicaksana @nitish @Serjesh @ironBot
+
+I will encourage @Vincent and @Zork to continue #30DaysofUdacity till completion of course.
+											
+![Day 41 1st](images/day-41-1.png)
+![Day 41 2nd](images/understanding-of-hybrid-cloud.png)
+
+
+
 ## Day 40 August 02, 2020. #30days_udacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 100%)
