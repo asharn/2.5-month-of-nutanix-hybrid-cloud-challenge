@@ -2,6 +2,22 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
+## Day 46 August 08, 2020. #30days_udacity
+- My current progress is:\
+  **2. Modern Private Cloud Infrastructure** (Progress 100%)
+    - **Revised Lesson 2.  Journey to the Modern Cloud**
+	- **Why Cloud Smart?**
+	- **What needs to change?**
+	- Reference [**2019 Federal Cloud Computing Strategy from Cloud First to Cloud Smart**](https://cloud.cio.gov/strategy/#redefining-cloud-computing)
+		
+
+I will send good vibes to awesome folks who are doing great @George Nyandika @Sadia @Syed Muhammad Masab Hashmi @Alex @Victor @Joagovi @Syahril Ramadhan @Joagovi @Vincent @Zork @Ankita Ghosh @Sichen @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta @Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira @Dhirendra @Moussa.seck @Sudheer Kumar  @Anna Brakowska @Leo Hideki @Mahesh BUDAVARAPU @Rao Kamran  @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González @Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan @Marco Nogueira @Melissa Bloomer @Ahmad Turay @Oladapo Bolarinwa @Korene Stuart @Isaac Yauri @Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana @Rav @Jhonatan Nagasako @Christine Rehm @Juan T @Remi @Jaykumar Patel @Quan @Wilson.Udacity @Christian Rivera @SALMAN ZAMAN @Nigel P @Jonathan Blanco @JohnBucMoore @LauraT @Serjesh @Nícolas Pauli @Jaskaran Singh @AlabamaRatchet @Al Kuilan @Noel Situ @AndyP @Juan T @Jhonatan Nagasako @Isaac Yauri  @Shamli Singh @Marc Kristen @Mokit Hossain @Lovepreet Singh @Mariia @Pree  @susyjam @Ashique Bin Iqbal @Iqbal Singh @Lovepreet Singh  @Mitchell Greifeneder @Jiva @Frida @Ali Asim Kazmi @EO4Wellness @Omar @Mike McK @Aaron @Aayushi Bhatiya @Abdallah Melloul @Melissa Bloomer @Md. Fahim Foysal @Juan T @Prachal Patel @Ashraf Kanyadakam @Romana Akter @Jum @Chris M @Shivani @Ayodeji @Alekhya V @Amardeep Singh @Lara Freiria @Abhinav Rastogi @Mahitej @Sanyam @AlbertS @Muhammad Arif Wicaksana @nitish @Serjesh @ironBot
+I will encourage @Claudio and @Edgardo Peregrino to continue #30DaysofUdacity till completion of course.
+											
+![Day 46 1st](images/why-cloud-smart.png)
+![Day 46 2nd](images/what-needs-to-change.png)
+
+
 ## Day 45 August 07, 2020. #30days_udacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 100%)
