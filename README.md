@@ -2,7 +2,7 @@
 This repo contains all the information related to Nutanix® Hybrid Cloud Scholarship Program of Phase-I and if selected then of Phase-II as well.
 
 
-## Day 47 August 09, 2020. #30days_udacity
+## Day 48 August 10, 2020. #30days_udacity
 - My current progress is:\
   **2. Modern Private Cloud Infrastructure** (Progress 100%)
     - **Revised Lesson 2.  Journey to the Modern Cloud**
